@@ -1,0 +1,13 @@
+/* Make the image fully responsive */
+.carousel-inner img {
+    width: 640px;
+    height: 400px;
+
+}
+.carousel-item{
+    text-align: center;
+    min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+
+      
+    
